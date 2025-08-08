@@ -24,12 +24,12 @@ This project develops a machine learning model to predict the employability of j
 - Logistic Regression with multiple predictors achieved the best overall performance (accuracy, precision, recall, F1-score)
 - Multiple predictors performed better than using only the top feature (ComputerSkills)
 
-4. Fairness & Bias Mitigation
+*4. Fairness & Bias Mitigation*
 - Detected bias in gender, age, and education using fairness metrics and heatmaps
 - Applied Fairness Constraint, Rejection Option Classification, and Random Forest Classifier to reduce bias
 -  After applying, Demographic Parity Difference and Equalized Odds Difference approached 0
 
-5. Ethical Considerations
+*5. Ethical Considerations*
 - Emphasised the need for equity, transparency, and ongoing monitoring in hiring algorithms
 
 
