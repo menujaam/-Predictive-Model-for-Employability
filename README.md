@@ -9,6 +9,7 @@ This project develops a machine learning model to predict the employability of j
 3. Identify and mitigate bias in hiring processes
 
 **Process:**
+
 *1. Data Preparation*
 - Removed irrelevant variables such as "Unnamed" and less informative variables such as "Previous Salary".
 - One-hot encoding for categorical variables
